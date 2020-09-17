@@ -13,6 +13,8 @@
 		6CAC41AA2512E9220065C3F9 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6CAC41A82512E9220065C3F9 /* Main.storyboard */; };
 		6CAC41AC2512E9240065C3F9 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6CAC41AB2512E9240065C3F9 /* Assets.xcassets */; };
 		6CAC41AF2512E9240065C3F9 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6CAC41AD2512E9240065C3F9 /* LaunchScreen.storyboard */; };
+		6CAC41B82512EAA80065C3F9 /* splash.png in Resources */ = {isa = PBXBuildFile; fileRef = 6CAC41B62512EAA80065C3F9 /* splash.png */; };
+		6CAC41B92512EAA80065C3F9 /* memo.png in Resources */ = {isa = PBXBuildFile; fileRef = 6CAC41B72512EAA80065C3F9 /* memo.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +26,8 @@
 		6CAC41AB2512E9240065C3F9 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		6CAC41AE2512E9240065C3F9 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		6CAC41B02512E9240065C3F9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		6CAC41B62512EAA80065C3F9 /* splash.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = splash.png; sourceTree = "<group>"; };
+		6CAC41B72512EAA80065C3F9 /* memo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = memo.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +60,8 @@
 		6CAC41A12512E9220065C3F9 /* Animation */ = {
 			isa = PBXGroup;
 			children = (
+				6CAC41B72512EAA80065C3F9 /* memo.png */,
+				6CAC41B62512EAA80065C3F9 /* splash.png */,
 				6CAC41A22512E9220065C3F9 /* AppDelegate.swift */,
 				6CAC41A42512E9220065C3F9 /* SceneDelegate.swift */,
 				6CAC41A62512E9220065C3F9 /* ViewController.swift */,
@@ -125,6 +131,8 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				6CAC41B82512EAA80065C3F9 /* splash.png in Resources */,
+				6CAC41B92512EAA80065C3F9 /* memo.png in Resources */,
 				6CAC41AF2512E9240065C3F9 /* LaunchScreen.storyboard in Resources */,
 				6CAC41AC2512E9240065C3F9 /* Assets.xcassets in Resources */,
 				6CAC41AA2512E9220065C3F9 /* Main.storyboard in Resources */,
